@@ -1,4 +1,4 @@
-# Box moving game in command prompt
+# Box moving game
 
 ## Description
 * Box moving game in written in c++ and runs in command prompt.
